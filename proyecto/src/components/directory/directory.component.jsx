@@ -12,12 +12,12 @@ class Directory extends React.Component {
       sections: [
         {
           title: 'BICICLETAS',
-          imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+          imageUrl: 'https://assets.entrepreneur.com/content/3x2/2000/20160419164404-Depositphotos-32428429-l-2015.jpeg',
           id: 1
         },
         {
           title: 'TOMATODOS',
-          imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
+          imageUrl: 'https://www.graficmerch.com/gfmrhwp/wp-content/uploads/2018/10/TOMATODO-CON-METAL-1.jpg',
           id: 2
         }
       ]
